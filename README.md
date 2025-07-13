@@ -1,6 +1,6 @@
 # Lexi — AI Assistant for Dyslexia Screening
 
-🔗 **Thunkable project**: [Open Lexi](https://x.thunkable.com/copy/07eb404a29abf8088445ab05c510240d)
+🔗 **Thunkable project**: [Open Lexi]( https://x.thunkable.com/copy/07eb404a29abf8088445ab05c510240d )
 
 **Lexi** is a mobile app designed to support children with dyslexia. It includes:
 - A structured questionnaire for parents
@@ -22,8 +22,8 @@
 
 ## 📁 Project Content
 - Project link: see above
-- [coming soon] Screenshots and UI
-- [in progress] Prompt logic and documentation
-- `/media/` — media assets
-- `/docs/` — methodology & structure
+- Screenshots and UI
+- Prompt logic and documentation
+- media assets
+- methodology & structure
 
